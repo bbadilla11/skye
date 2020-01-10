@@ -1,2 +1,2 @@
-# skye
+# skyē
 Mobile Legend player
